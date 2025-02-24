@@ -11,17 +11,10 @@
 - ⚡ **Animated splash screen**
 
 ## 📸 Screenshots
-### Home Screen
-![Home Screen](screenshots/d.jpg)
 
-### Add Note Dialog
-![Add Note](screenshots/c.jpg)
+### &nbsp; Home Screen &nbsp; &nbsp; &nbsp; Add Note Dialog &nbsp; &nbsp; &nbsp; &nbsp; Note List &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Drawer Menu
 
-### Note List
-![Note List](screenshots/b.jpg)
-
-### Drawer Menu
-![Drawer Menu](screenshots/a.jpg)
+<img src="screenshots/d.jpg" width="150"> &nbsp; &nbsp;  <img src="screenshots/c.jpg" width="150"> &nbsp; &nbsp;  <img src="screenshots/b.jpg" width="150"> &nbsp;&nbsp;  <img src="screenshots/a.jpg" width="150"> 
 
 ## 🛠 Tech Stack
 - **Kotlin** - Programming Language

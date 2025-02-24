@@ -12,7 +12,7 @@
 
 ## 📸 Screenshots
 
-<img src="screenshots/d.jpg" width="150"> <img src="screenshots/c.jpg" width="150"> &nbsp; <img src="screenshots/b.jpg" width="150"> &nbsp; <img src="screenshots/a.jpg" width="150"> 
+<img src="screenshots/d.jpg" width="150"> &nbsp; <img src="screenshots/c.jpg" width="150"> &nbsp; <img src="screenshots/b.jpg" width="150"> &nbsp; <img src="screenshots/a.jpg" width="150"> 
 
 ## 🛠 Tech Stack
 - **Kotlin** - Programming Language

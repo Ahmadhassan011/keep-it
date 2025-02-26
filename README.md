@@ -1,6 +1,7 @@
 # Keep Notes - A Simple Note-Taking App
 
 ## Overview
+My first one-day android app.
 **Keep It** is a simple and elegant note-taking app inspired by Google Keep. It allows users to add, delete, and manage notes efficiently with a clean UI built using **Jetpack Compose**.
 
 ## ✨ Features
